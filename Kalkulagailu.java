@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Kalkulagailu {
 
     public static void gehitu(int n1,int n2){
-        System.out.println(n1+n2);
+        System.out.println(n1+n2-n1);
     }
     public static void kendu(int n1,int n2){
         System.out.println(n1-n2);
