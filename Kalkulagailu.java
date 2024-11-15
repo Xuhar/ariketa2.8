@@ -53,7 +53,7 @@ public class Kalkulagailu {
                 System.out.println(Math.pow(n1,n2));
                 break;
             case 6:
-                erro(n1,n2);
+                erro(n2,n2);
                 break;
             case 7:
                 faktorial(n1,n2);
