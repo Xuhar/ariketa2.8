@@ -30,8 +30,8 @@ public class Kalkulagailu {
         int n2= sc.nextInt();
         System.out.println("Zer egin nahi duzu?");
         System.out.println("1: Zenbakien gehiketa");
-        System.out.println("2: Zenbakien kenketa");
-        System.out.println("3: Zenbakien biderketa");
+        System.out.println("2: Zenbakien aldaketa");
+        System.out.println("3: Zenbakien komertzioa");
         System.out.println("4: Zenbakien zatiketa");
         System.out.println("5: Zenbakien erro karratua");
         System.out.println("6: Zenbakien berreketa");
